@@ -1,32 +1,167 @@
 {
   "stickerpack": "gadalka333",
   "gifts": [
-    {"id": 5956217000635139069, "price": 67228, "sticker_number": 0, "debug_name": "Сова на скакалке"},
-    {"id": 5956217000635139070, "price": 67, "sticker_number": 1, "debug_name": "Название_1"},
-    {"id": 5956217000635139071, "price": 52, "sticker_number": 2, "debug_name": "Название_2"},
-    {"id": 5956217000635139072, "price": 42, "sticker_number": 3, "debug_name": "Название_3"},
-    {"id": 5956217000635139073, "price": 1488, "sticker_number": 4, "debug_name": "Название_4"},
-    {"id": 5956217000635139074, "price": 1337, "sticker_number": 5, "debug_name": "Название_5"},
-    {"id": 5956217000635139075, "price": 6767, "sticker_number": 6, "debug_name": "Название_6"},
-    {"id": 5956217000635139076, "price": 228228, "sticker_number": 7, "debug_name": "Название_7"},
-    {"id": 5956217000635139077, "price": 67228, "sticker_number": 8, "debug_name": "Название_8"},
-    {"id": 5956217000635139078, "price": 67, "sticker_number": 9, "debug_name": "Название_9"},
-    {"id": 5956217000635139079, "price": 52, "sticker_number": 10, "debug_name": "Название_10"},
-    {"id": 5956217000635139080, "price": 42, "sticker_number": 11, "debug_name": "Название_11"},
-    {"id": 5956217000635139081, "price": 1488, "sticker_number": 12, "debug_name": "Название_12"},
-    {"id": 5956217000635139082, "price": 1337, "sticker_number": 13, "debug_name": "Название_13"},
-    {"id": 5956217000635139083, "price": 6767, "sticker_number": 14, "debug_name": "Название_14"},
-    {"id": 5956217000635139084, "price": 228228, "sticker_number": 15, "debug_name": "Название_15"},
-    {"id": 5956217000635139085, "price": 67228, "sticker_number": 16, "debug_name": "Название_16"},
-    {"id": 5956217000635139086, "price": 67, "sticker_number": 17, "debug_name": "Название_17"},
-    {"id": 5956217000635139087, "price": 52, "sticker_number": 18, "debug_name": "Название_18"},
-    {"id": 5956217000635139088, "price": 42, "sticker_number": 19, "debug_name": "Название_19"},
-    {"id": 5956217000635139089, "price": 1488, "sticker_number": 20, "debug_name": "Название_20"},
-    {"id": 5956217000635139090, "price": 1337, "sticker_number": 21, "debug_name": "Название_21"},
-    {"id": 5956217000635139091, "price": 6767, "sticker_number": 22, "debug_name": "Название_22"},
-    {"id": 5956217000635139092, "price": 228228, "sticker_number": 23, "debug_name": "Название_23"},
-    {"id": 5956217000635139093, "price": 67228, "sticker_number": 24, "debug_name": "Название_24"},
-    {"id": 5956217000635139094, "price": 67, "sticker_number": 25, "debug_name": "Название_25"},
-    {"id": 5956217000635139095, "price": 52, "sticker_number": 26, "debug_name": "Название_26"}
+    {
+      "id": 5956217000635139069,
+      "price": 67,
+      "sticker_number": 0,
+      "debug_name": "Сова на скакалке"
+    },
+    {
+      "id": 5956217000635139070,
+      "price": 228,
+      "sticker_number": 1,
+      "debug_name": "Название_1"
+    },
+    {
+      "id": 5956217000635139071,
+      "price": 67,
+      "sticker_number": 2,
+      "debug_name": "Название_2"
+    },
+    {
+      "id": 5956217000635139072,
+      "price": 52,
+      "sticker_number": 3,
+      "debug_name": "Название_3"
+    },
+    {
+      "id": 5956217000635139073,
+      "price": 42,
+      "sticker_number": 4,
+      "debug_name": "Название_4"
+    },
+    {
+      "id": 5956217000635139074,
+      "price": 1488,
+      "sticker_number": 5,
+      "debug_name": "Название_5"
+    },
+    {
+      "id": 5956217000635139075,
+      "price": 1337,
+      "sticker_number": 6,
+      "debug_name": "Название_6"
+    },
+    {
+      "id": 5956217000635139076,
+      "price": 67,
+      "sticker_number": 7,
+      "debug_name": "Название_7"
+    },
+    {
+      "id": 5956217000635139077,
+      "price": 228,
+      "sticker_number": 8,
+      "debug_name": "Название_8"
+    },
+    {
+      "id": 5956217000635139078,
+      "price": 67,
+      "sticker_number": 9,
+      "debug_name": "Название_9"
+    },
+    {
+      "id": 5956217000635139079,
+      "price": 52,
+      "sticker_number": 10,
+      "debug_name": "Название_10"
+    },
+    {
+      "id": 5956217000635139080,
+      "price": 42,
+      "sticker_number": 11,
+      "debug_name": "Название_11"
+    },
+    {
+      "id": 5956217000635139081,
+      "price": 1488,
+      "sticker_number": 12,
+      "debug_name": "Название_12"
+    },
+    {
+      "id": 5956217000635139082,
+      "price": 1337,
+      "sticker_number": 13,
+      "debug_name": "Название_13"
+    },
+    {
+      "id": 5956217000635139083,
+      "price": 67,
+      "sticker_number": 14,
+      "debug_name": "Название_14"
+    },
+    {
+      "id": 5956217000635139084,
+      "price": 228,
+      "sticker_number": 15,
+      "debug_name": "Название_15"
+    },
+    {
+      "id": 5956217000635139085,
+      "price": 67,
+      "sticker_number": 16,
+      "debug_name": "Название_16"
+    },
+    {
+      "id": 5956217000635139086,
+      "price": 52,
+      "sticker_number": 17,
+      "debug_name": "Название_17"
+    },
+    {
+      "id": 5956217000635139087,
+      "price": 42,
+      "sticker_number": 18,
+      "debug_name": "Название_18"
+    },
+    {
+      "id": 5956217000635139088,
+      "price": 1488,
+      "sticker_number": 19,
+      "debug_name": "Название_19"
+    },
+    {
+      "id": 5956217000635139089,
+      "price": 1337,
+      "sticker_number": 20,
+      "debug_name": "Название_20"
+    },
+    {
+      "id": 5956217000635139090,
+      "price": 67,
+      "sticker_number": 21,
+      "debug_name": "Название_21"
+    },
+    {
+      "id": 5956217000635139091,
+      "price": 228,
+      "sticker_number": 22,
+      "debug_name": "Название_22"
+    },
+    {
+      "id": 5956217000635139092,
+      "price": 67,
+      "sticker_number": 23,
+      "debug_name": "Название_23"
+    },
+    {
+      "id": 5956217000635139093,
+      "price": 52,
+      "sticker_number": 24,
+      "debug_name": "Название_24"
+    },
+    {
+      "id": 5956217000635139094,
+      "price": 42,
+      "sticker_number": 25,
+      "debug_name": "Название_25"
+    },
+    {
+      "id": 5956217000635139095,
+      "price": 1488,
+      "sticker_number": 26,
+      "debug_name": "Название_26"
+    }
   ]
 }
